@@ -1,0 +1,7 @@
+﻿################################################################################
+# Ten plik .gitignore został utworzony automatycznie przez Microsoft(R) Visual Studio.
+################################################################################
+
+/node_modules
+/.vs/Pixel_art_generator/FileContentIndex
+/.vs/Pixel_art_generator/config
